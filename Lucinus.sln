@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestGame", "TestGame\TestGame.vcxproj", "{7BCCDE1F-63EE-430C-B724-440281B0AD03}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lucinus", "Lucinus\Lucinus.vcxproj", "{87195D14-7176-4050-A9EA-AE82D9372E96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87195D14-7176-4050-A9EA-AE82D9372E96}.Debug|x64.ActiveCfg = Debug|x64
+		{87195D14-7176-4050-A9EA-AE82D9372E96}.Debug|x64.Build.0 = Debug|x64
+		{87195D14-7176-4050-A9EA-AE82D9372E96}.Release|x64.ActiveCfg = Release|x64
+		{87195D14-7176-4050-A9EA-AE82D9372E96}.Release|x64.Build.0 = Release|x64
+		{7BCCDE1F-63EE-430C-B724-440281B0AD03}.Debug|x64.ActiveCfg = Debug|x64
+		{7BCCDE1F-63EE-430C-B724-440281B0AD03}.Debug|x64.Build.0 = Debug|x64
+		{7BCCDE1F-63EE-430C-B724-440281B0AD03}.Release|x64.ActiveCfg = Release|x64
+		{7BCCDE1F-63EE-430C-B724-440281B0AD03}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8613F9D6-3C96-4457-A525-D86360D36EC8}
+	EndGlobalSection
+EndGlobal
