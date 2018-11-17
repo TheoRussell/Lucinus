@@ -1,0 +1,3 @@
+[submodule "Lucinus/libraries/spdlog"]
+	path = Lucinus/libraries/spdlog
+	url = https://github.com/gabime/spdlog
